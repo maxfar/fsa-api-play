@@ -1,0 +1,8 @@
+<!doctype html>
+<title>Authorities List</title>
+
+<select onChange="window.location.href=this.value">
+    {% for authority in authorities %}
+        <option value="http://localhost:5000/authorities/{{ authority.LocalAuthorityId }}">{{ authority.Name }}</option>
+    {% endfor %}
+</select>

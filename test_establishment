@@ -1,0 +1,80 @@
+{
+	"establishments": [{
+		"LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
+		"BusinessTypeID": 1,
+		"links": [],
+		"scores": {
+			"Hygiene": 5,
+			"ConfidenceInManagement": 5,
+			"Structural": 0
+		},
+		"SchemeType": "FHRS",
+		"RatingValue": "5",
+		"FHRSID": 507136,
+		"BusinessName": "196",
+		"RightToReply": "",
+		"RatingKey": "fhrs_5_en-gb",
+		"Phone": "",
+		"LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
+		"geocode": {
+			"latitude": "52.197345",
+			"longitude": "0.145033"
+		},
+		"AddressLine2": "Cambridgeshire",
+		"LocalAuthorityBusinessID": "PI/000081182",
+		"AddressLine1": "Cambridge",
+		"AddressLine3": "",
+		"Distance": null,
+		"RatingDate": "2015-01-22T00:00:00",
+		"LocalAuthorityCode": "027",
+		"AddressLine4": "",
+		"LocalAuthorityName": "Cambridge City",
+		"BusinessType": "Restaurant/Cafe/Canteen",
+		"NewRatingPending": false,
+		"PostCode": "CB1 3NF"
+	}, {
+		"LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
+		"BusinessTypeID": 1,
+		"links": [],
+		"scores": {
+			"Hygiene": 0,
+			"ConfidenceInManagement": 0,
+			"Structural": 5
+		},
+		"SchemeType": "FHRS",
+		"RatingValue": "5",
+		"FHRSID": 507036,
+		"BusinessName": "2nd View Cafe - Waterstones",
+		"RightToReply": "",
+		"RatingKey": "fhrs_5_en-gb",
+		"Phone": "",
+		"LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
+		"geocode": {
+			"latitude": "52.206307",
+			"longitude": "0.120862"
+		},
+		"AddressLine2": "Cambridge",
+		"LocalAuthorityBusinessID": "PI/000075684",
+		"AddressLine1": "20-22 Sidney Street",
+		"AddressLine3": "Cambridgeshire",
+		"Distance": null,
+		"RatingDate": "2015-06-29T00:00:00",
+		"LocalAuthorityCode": "027",
+		"AddressLine4": "",
+		"LocalAuthorityName": "Cambridge City",
+		"BusinessType": "Restaurant/Cafe/Canteen",
+		"NewRatingPending": false,
+		"PostCode": "CB2 3HG"
+	}],
+	"meta": {
+		"dataSource": "Lucene",
+		"extractDate": "0001-01-01T00:00:00",
+		"itemCount": 2,
+		"returncode": "OK",
+		"totalCount": 2,
+		"totalPages": 1,
+		"pageSize": 1,
+		"pageNumber": 1
+	},
+	"links": []
+}

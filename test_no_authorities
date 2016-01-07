@@ -1,0 +1,17 @@
+{
+    "authorities": [],
+    "meta": {
+        "dataSource": "API",
+        "extractDate": "2016-01-06T18:49:38.2383999+00:00",
+        "itemCount": 0,
+        "returncode": "OK",
+        "totalCount": 0,
+        "totalPages": 1,
+        "pageSize": 0,
+        "pageNumber": 1
+    },
+    "links": [{
+        "rel": "self",
+        "href": "http://api.ratings.food.gov.uk/authorities"
+    }]
+}

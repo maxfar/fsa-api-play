@@ -1,0 +1,15 @@
+<!doctype html>
+<title>Authority Results</title>
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Percentage</th>
+  </tr>
+  {% for key, value in results.iteritems() %}
+    <tr>
+        <td>{{ key }}</td>
+        <td>{{ value }}</td>
+    </tr>
+  {% endfor %}
+</table>
